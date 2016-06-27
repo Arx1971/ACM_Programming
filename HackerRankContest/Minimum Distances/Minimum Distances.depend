@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1466934523 source:d:\code\hackerrankcontest\minimum distances\main.cpp
+	<cstdio>
+	<cstring>
+	<string>
+	<cmath>
+	<vector>
+	<queue>
+	<algorithm>
+	<stack>
+	<map>
+	<list>
+	<cstddef>
+	<cstdlib>
+	<cctype>
+	<iostream>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1466938501 source:d:\code\hackerrankcontest\equal stacks\main.cpp
+	<cstdio>
+	<cstring>
+	<string>
+	<cmath>
+	<vector>
+	<queue>
+	<algorithm>
+	<stack>
+	<map>
+	<list>
+	<cstddef>
+	<cstdlib>
+	<cctype>
+	<iostream>
+
